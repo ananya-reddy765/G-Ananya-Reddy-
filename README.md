@@ -1,30 +1,42 @@
-::: {align="center"}
+<div align="center">
+
 # Hi 👋, I'm Ananya Reddy
 
 ### Code. Create. Innovate.
 
 **Computer Science (AI & ML) Student**
 
-`<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Meaningful+Projects;Exploring+Software+Development;Artificial+Intelligence+Enthusiast;Always+Learning+New+Technologies"/>`{=html}
-:::
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Meaningful+Projects;Exploring+Software+Development;Artificial+Intelligence+Enthusiast;Always+Learning+New+Technologies"/>
 
-------------------------------------------------------------------------
+</div>
+
+---
 
 ## 🌐 Connect With Me
 
-```{=html}
 <p align="center">
-```
-`<a href="https://github.com/ananya-reddy765">`{=html}`<img src="https://skillicons.dev/icons?i=github" height="45"/>`{=html}`</a>`{=html}
-  
-`<a href="https://www.linkedin.com/in/g-ananya-reddy-2661b333b/">`{=html}`<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>`{=html}`</a>`{=html}
-  
-`<a href="mailto:g.ananya0202@gmail.com">`{=html}`<img src="https://skillicons.dev/icons?i=gmail" height="45"/>`{=html}`</a>`{=html}
-```{=html}
+  <a href="https://github.com/ananya-reddy765">
+    <img src="https://skillicons.dev/icons?i=github" height="45"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/g-ananya-reddy-2661b333b/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:g.ananya0202@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+  </a>
 </p>
-```
 
-------------------------------------------------------------------------
+---
+
+## 👩‍💻 About Me
+
+- 🔹 Passionate about building technology that creates real-world impact.
+- 🔹 Enjoy building meaningful projects and exploring new technologies.
+- 🔹 Interested in Software Development, Artificial Intelligence, and Machine Learning.
+- 🔹 Continuously learning, experimenting, and improving.
+- 🔹 Open to collaboration and internship opportunities.
 
 ## 👩‍💻 About Me
 
