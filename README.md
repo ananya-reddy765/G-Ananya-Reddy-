@@ -25,10 +25,77 @@ Computer Science (AI & ML) Student
 
 🔹 Computer Science (AI & ML) Student
 
-🔹 Passionate about technology and continuous learning
+🔹 Passionate about building technology that creates real-world impact
 
-🔹 enjoy building meaningful projects and learning new technologies
- 
-🔹 Always exploring, experimenting, and improving
+🔹 Enjoy building meaningful projects and exploring new technologies
+
+🔹 Continuously learning, experimenting, and improving
 
 🔹 Open to collaboration and internship opportunities
+
+## 💻 Tech Stack
+
+### 👨‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,c" />
+</p>
+
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,flutter" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase" />
+</p>
+
+### 🤖 AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ananya-reddy765&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananya-reddy765&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananya-reddy765&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🚀 Featured Project
+
+### 🤖 AI Customer Churn Prediction
+
+Predicts customer churn using machine learning techniques and customer behavior analysis to help businesses improve customer retention.
+
+**Tech Stack:** Python • Pandas • NumPy • Scikit-learn • Matplotlib
+
+<hr>
+
+<p align="center">
+  <i>"Driven by curiosity. Inspired by innovation."</i>
+</p>
+
+<hr>
+
+
+
+<hr>
+
+<p align="center">
+  Thanks for visiting! Let's connect, collaborate, and build something meaningful. 🚀
+</p>
