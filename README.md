@@ -20,3 +20,15 @@ Computer Science (AI & ML) Student
     <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email"/>
   </a>
 </p>
+
+## 👩‍💻 About Me
+
+🔹 Computer Science (AI & ML) Student
+
+🔹 Passionate about technology and continuous learning
+
+🔹 enjoy building meaningful projects and learning new technologies
+ 
+🔹 Always exploring, experimenting, and improving
+
+🔹 Open to collaboration and internship opportunities
