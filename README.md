@@ -1,141 +1,100 @@
-# Hi 👋, I'm Ananya Reddy
+<div align="center">
 
-### Code. Create. Innovate.
-**Computer Science (AI & ML) Student @ Woxsen University**
+# G Ananya Reddy
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Meaningful+Projects;Machine+Learning+%26+Predictive+Modelling;Full+Stack+Web+Development;Always+Learning+New+Technologies)
+**Computer Science (AI & ML) Student · Full-Stack Developer**
 
----
+Woxsen University, Hyderabad
 
-## 🌐 Connect With Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/ananya-reddy765)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g-ananya-reddy-2661b333b/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:g.ananyareddy02@gmail.com)
 
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/ananya-reddy765)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/g-ananya-reddy-2661b333b/)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:g.ananyareddy02@gmail.com)
+</div>
 
----
+<br>
 
-## 👩‍💻 About Me
+## About
 
-- 🔹 B.Tech Computer Science (AI & ML) student at Woxsen University, Hyderabad.
-- 🔹 Passionate about building technology that creates real-world impact.
-- 🔹 Experienced in full-stack development and applied machine learning through hands-on projects and internships.
-- 🔹 Continuously learning, experimenting, and improving.
-- 🔹 Open to collaboration and internship opportunities.
+Computer Science (AI & ML) undergraduate with hands-on experience across machine learning and full-stack web development, built through internships and independent projects. Comfortable working end-to-end — from data preprocessing and model training to building and deploying production-style web applications. Currently seeking software development and AI/ML internship opportunities.
 
----
+<br>
 
-## 💼 Experience
+## Experience
 
-**Machine Learning Intern — Launched Global**
-*Mar 2026 – Apr 2026*
-- Completed a Machine Learning mentorship and internship program focused on AI and predictive modelling.
-- Worked on data preprocessing, model development, and core ML concepts through guided projects.
+**Machine Learning Intern** — Launched Global
+`Mar 2026 – Apr 2026`
+Completed a Machine Learning mentorship program focused on AI and predictive modelling; worked on data preprocessing, model development, and applied core ML concepts through guided projects.
 
-**Web Development Intern — Persevex**
-*May 2026*
-- Developed responsive web applications using HTML, CSS, JavaScript, and modern web development practices.
-- Built and tested frontend components, and learned deployment workflows to hosting platforms.
+**Web Development Intern** — Persevex
+`May 2026`
+Built and tested responsive frontend components using HTML, CSS, and JavaScript following modern development and deployment practices.
 
----
+<br>
 
-## 💻 Tech Stack
+## Technical Skills
 
-**Languages**
+| Category | Stack |
+|---|---|
+| **Languages** | Python, Java, JavaScript |
+| **Frontend** | React.js, HTML, CSS, Tailwind CSS |
+| **Backend** | Node.js, Express.js, PHP |
+| **Database** | MongoDB, MySQL |
+| **AI / ML** | Scikit-learn, TensorFlow, Keras, Pandas, NumPy |
+| **Tools** | Git, GitHub, VS Code, Jupyter Notebook |
 
-![Python](https://skillicons.dev/icons?i=python,java,javascript)
+<br>
 
-**Frontend**
+## Projects
 
-![Frontend](https://skillicons.dev/icons?i=html,css,react,tailwind)
-
-**Backend**
-
-![Backend](https://skillicons.dev/icons?i=nodejs,express,php)
-
-**Database**
-
-![Database](https://skillicons.dev/icons?i=mongodb,mysql)
-
-**Tools**
-
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,jupyter)
-
-**AI / ML**
-
-![AI/ML](https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch)
-
----
-
-## 🚀 Featured Projects
-
-### 🛍️ CraftedIndia — Multi-Vendor Handicraft Marketplace
+**[CraftedIndia — Multi-Vendor Handicraft Marketplace](https://github.com/ananya-reddy765)**
 Full-stack e-commerce platform connecting artisans and customers, with buyer, seller, and admin modules, JWT authentication, shopping cart, order processing, and vendor dashboards.
+`React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Tailwind CSS`
 
-**Tech:** `React.js` • `Node.js` • `Express.js` • `MongoDB` • `JWT` • `Tailwind CSS`
+**[AI Customer Churn Prediction System](https://github.com/ananya-reddy765)**
+ML model that predicts customer churn from behavioral data, covering data preprocessing, feature engineering, exploratory analysis, and classification model training.
+`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib`
 
-### 🤖 AI Customer Churn Prediction System
-Machine learning model that predicts customer churn from behavioral data — includes data preprocessing, feature engineering, EDA, and classification model training.
+**[ScholarPilot — AI Research Paper Assistant](https://github.com/ananya-reddy765)**
+AI-powered system for research paper analysis, with automated PDF section extraction (abstract, introduction, methodology) and keyword-based related-paper search.
+`Python` `NLP` `PDF Processing`
 
-**Tech:** `Python` • `Pandas` • `NumPy` • `Scikit-learn` • `Matplotlib`
+**[Handwritten Digit Classifier](https://github.com/ananya-reddy765)**
+Deep learning model for handwritten digit recognition, integrated into a GUI application for real-time prediction.
+`Python` `TensorFlow` `Keras` `NumPy` `Matplotlib` `Tkinter`
 
-### 📄 ScholarPilot — AI Research Paper Assistant
-AI-powered system for research paper analysis and academic writing improvement, with automated PDF section extraction and keyword-based related-paper search.
+**[Smart Health Monitoring System](https://github.com/ananya-reddy765)**
+Web-based platform for managing health records, with authentication, record management, and an admin dashboard.
+`HTML` `CSS` `PHP` `MySQL`
 
-**Tech:** `Python` • `NLP` • `PDF Processing`
+<br>
 
-### ✍️ Handwritten Digit Classifier
-Deep learning model for handwritten digit recognition with image preprocessing, normalization, and a real-time GUI prediction app.
+## Achievements
 
-**Tech:** `Python` • `TensorFlow` • `Keras` • `NumPy` • `Matplotlib` • `Tkinter`
+- Participant, Tensor V2.0 Hackathon
+- Attended Generative AI Workshop, IIT Hyderabad
+- Completed NeuroTech In Action Workshop 2025, Woxsen University (Sept 2025)
 
-### 🏥 Smart Health Monitoring System
-Web-based platform for managing health records with authentication, record management, and an admin dashboard.
+<br>
 
-**Tech:** `HTML` • `CSS` • `PHP` • `MySQL`
+## Currently Exploring
 
----
+Flutter Development · Modern Web Development · Data Structures & Algorithms
 
-## 🏆 Achievements & Participation
+<br>
 
-- 🏅 Participant, Tensor V2.0 Hackathon
-- 🧠 Attended Generative AI Workshop, IIT Hyderabad
-- ✅ Completed NeuroTech In Action Workshop 2025, Woxsen University (Sept 2025)
-- 🤝 Active contributor to AI/ML and Full Stack development projects
+## GitHub Stats
 
----
+<div align="center">
 
-## 🌱 Currently Exploring
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ananya-reddy765&layout=compact&theme=default&hide_border=true&langs_count=8)
 
-- 📱 Flutter Development
-- 🤖 Artificial Intelligence & Machine Learning
-- 🌐 Modern Web Development
-- ⚡ Data Structures & Algorithms
+</div>
 
----
+<br>
 
-## 🎯 Goals
-
-- 🎯 Contribute to Open Source
-- 💻 Build high-quality software projects
-- 🤖 Strengthen AI & Machine Learning skills
-- 💼 Secure a Software Development Internship
-- 📚 Keep learning and improving every day
-
----
-
-## 🛠️ Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananya-reddy765&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 💭 Quote
+<div align="center">
 
 *"Driven by curiosity. Inspired by innovation."*
 
----
-
-### ⭐ Thanks for visiting!
-
-Feel free to connect, collaborate, and build something meaningful together.
+</div>
