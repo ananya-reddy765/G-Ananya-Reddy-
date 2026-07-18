@@ -1,12 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:334155&height=180&section=header&text=G%20Ananya%20Reddy&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Computer%20Science%20(AI%20%26%20ML)%20Student%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+# G Ananya Reddy
 
-<br>
+**Computer Science (AI & ML) Student · Full-Stack Developer**
+Woxsen University, Hyderabad
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=18&duration=3000&pause=1200&color=64748B&center=true&vCenter=true&width=600&lines=Woxsen+University%2C+Hyderabad;Machine+Learning+%C2%B7+Predictive+Modelling;Full+Stack+Web+Development)
-
-<br>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=18&duration=3000&pause=1200&color=64748B&center=true&vCenter=true&width=600&lines=Machine+Learning+%C2%B7+Predictive+Modelling;Full+Stack+Web+Development;Woxsen+University%2C+Hyderabad)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1e293b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ananya-reddy765)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g-ananya-reddy-2661b333b/)
@@ -119,22 +118,8 @@ Flutter Development · Modern Web Development · Data Structures & Algorithms
 
 <br>
 
-## GitHub Stats
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ananya-reddy765&layout=compact&theme=default&hide_border=true&langs_count=8&title_color=1e293b&text_color=334155)
-
-</div>
-
-<br>
-
 <div align="center">
 
 *"Driven by curiosity. Inspired by innovation."*
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,100:1e293b&height=100&section=footer" width="100%"/>
 
 </div>
