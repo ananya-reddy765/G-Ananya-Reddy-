@@ -37,178 +37,124 @@
 - 🔹 Interested in Software Development, Artificial Intelligence, and Machine Learning.
 - 🔹 Continuously learning, experimenting, and improving.
 - 🔹 Open to collaboration and internship opportunities.
-
-## 👩‍💻 About Me
-
--   🔹 Passionate about building technology that creates real-world
-    impact.
--   🔹 Enjoy building meaningful projects and exploring new
-    technologies.
--   🔹 Interested in Software Development, Artificial Intelligence, and
-    Machine Learning.
--   🔹 Continuously learning, experimenting, and improving.
--   🔹 Open to collaboration and internship opportunities.
-
 ------------------------------------------------------------------------
-
 ## 💻 Tech Stack
 
 ### 👨‍💻 Languages
 
-```{=html}
 <p>
-```
-`<img src="https://skillicons.dev/icons?i=python,java,javascript,c"/>`{=html}
-```{=html}
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,c" />
 </p>
-```
+
 ### 🌐 Frontend
 
-```{=html}
 <p>
-```
-`<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,flutter"/>`{=html}
-```{=html}
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,flutter" />
 </p>
-```
+
 ### ⚙️ Backend
 
-```{=html}
 <p>
-```
-`<img src="https://skillicons.dev/icons?i=nodejs,express"/>`{=html}
-```{=html}
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
-```
+
 ### 🗄️ Database
 
-```{=html}
 <p>
-```
-`<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>`{=html}
-```{=html}
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
-```
+
 ### 🛠️ Tools
 
-```{=html}
 <p>
-```
-`<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase"/>`{=html}
-```{=html}
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase" />
 </p>
-```
+
 ### 🤖 AI / ML
 
-```{=html}
 <p>
-```
-`<img src="https://skillicons.dev/icons?i=tensorflow"/>`{=html}
-```{=html}
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
 ## 📊 GitHub Analytics
 
-```{=html}
 <p align="center">
-```
-`<img height="170" src="https://github-readme-stats.vercel.app/api?username=ananya-reddy765&show_icons=true&theme=tokyonight&hide_border=true"/>`{=html}
-`<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ananya-reddy765&theme=tokyonight&hide_border=true"/>`{=html}
-```{=html}
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ananya-reddy765&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ananya-reddy765&theme=tokyonight&hide_border=true" />
 </p>
-```
-```{=html}
-<p align="center">
-```
-`<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananya-reddy765&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
-```{=html}
-</p>
-```
 
-------------------------------------------------------------------------
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananya-reddy765&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 
 ## 📈 Contribution Graph
 
-```{=html}
 <p align="center">
-```
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=ananya-reddy765&theme=tokyo-night&hide_border=true"/>`{=html}
-```{=html}
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ananya-reddy765&theme=tokyo-night&hide_border=true" />
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
 ## 🚀 Featured Project
 
 ### 🤖 AI Customer Churn Prediction
 
-A machine learning project that predicts customer churn by analyzing
-customer behavior and identifying customers at risk of leaving. The
-project includes data preprocessing, feature engineering, model
-training, evaluation, and visualization.
+A machine learning project that predicts customer churn by analyzing customer behavior and identifying customers at risk of leaving. The project includes data preprocessing, feature engineering, model training, evaluation, and visualization.
 
 **Tech Stack**
 
 `Python` • `Pandas` • `NumPy` • `Scikit-learn` • `Matplotlib`
 
-> Repository: Coming Soon
+> 🔗 **Repository:** Coming Soon
 
-------------------------------------------------------------------------
+---
 
 ## 🌱 Currently Exploring
 
--   📱 Flutter Development
--   🤖 Artificial Intelligence & Machine Learning
--   🌐 Modern Web Development
--   ⚡ Data Structures & Algorithms
--   🚀 Building impactful software projects
+- 📱 Flutter Development
+- 🤖 Artificial Intelligence & Machine Learning
+- 🌐 Modern Web Development
+- ⚡ Data Structures & Algorithms
+- 🚀 Building impactful software projects
 
-------------------------------------------------------------------------
+---
 
 ## 🎯 Goals
 
--   Contribute to Open Source
--   Build high-quality software projects
--   Strengthen AI & ML skills
--   Secure Software Development Internship
--   Keep learning and improving every day
+- 🎯 Contribute to Open Source
+- 💻 Build high-quality software projects
+- 🤖 Strengthen AI & Machine Learning skills
+- 💼 Secure a Software Development Internship
+- 📚 Keep learning and improving every day
 
-------------------------------------------------------------------------
+---
 
 ## 🏆 GitHub Trophies
 
-```{=html}
 <p align="center">
-```
-`<img src="https://github-profile-trophy.vercel.app/?username=ananya-reddy765&theme=tokyonight&no-frame=true&row=1&column=6"/>`{=html}
-```{=html}
+  <img src="https://github-profile-trophy.vercel.app/?username=ananya-reddy765&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
 ## 💭 Quote
 
-```{=html}
 <p align="center">
-```
-*"Driven by curiosity. Inspired by innovation."*
-
-```{=html}
+  <i>"Driven by curiosity. Inspired by innovation."</i>
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-::: {align="center"}
-### Thanks for visiting! ⭐
+<div align="center">
 
-Feel free to connect, collaborate, and build something meaningful
-together.
+### ⭐ Thanks for visiting!
 
-`<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>`{=html}
-:::
+Feel free to connect, collaborate, and build something meaningful together.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" />
+
+</div>
