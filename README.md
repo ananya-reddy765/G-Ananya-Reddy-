@@ -3,9 +3,12 @@
 <h3 align="center">Code. Create. Innovate.</h3>
 
 <p align="center">
-Computer Science (AI & ML) Student 
+  Computer Science (AI & ML) Student
 </p>
-<h3 align="center">🌐 Connect with Me</h3>
+
+---
+
+<h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
   <a href="https://github.com/ananya-reddy765" target="_blank">
@@ -21,81 +24,107 @@ Computer Science (AI & ML) Student
   </a>
 </p>
 
-## 👩‍💻 About Me
+---
 
-🔹 Computer Science (AI & ML) Student
+## 👩‍💻 About Me
 
 🔹 Passionate about building technology that creates real-world impact
 
 🔹 Enjoy building meaningful projects and exploring new technologies
 
+🔹 Interested in Software Development, Artificial Intelligence, and Machine Learning
+
 🔹 Continuously learning, experimenting, and improving
 
 🔹 Open to collaboration and internship opportunities
 
-## 💻 Tech Stack
+---
+
+# 💻 Tech Stack
 
 ### 👨‍💻 Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,javascript,c" />
 </p>
 
 ### 🌐 Frontend
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,flutter" />
 </p>
 
 ### ⚙️ Backend
+
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### 🗄️ Database
+
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ### 🛠️ Tools & Platforms
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase" />
 </p>
 
 ### 🤖 AI / ML
+
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow" />
 </p>
 
-## 📊 GitHub Stats
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ananya-reddy765&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananya-reddy765&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ananya-reddy765&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananya-reddy765&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananya-reddy765&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananya-reddy765&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-## 🚀 Featured Project
+---
 
-### 🤖 AI Customer Churn Prediction
+# 🚀 Featured Project
 
-Predicts customer churn using machine learning techniques and customer behavior analysis to help businesses improve customer retention.
+## 🤖 AI Customer Churn Prediction
 
-**Tech Stack:** Python • Pandas • NumPy • Scikit-learn • Matplotlib
+A machine learning project that predicts customer churn by analyzing customer behavior and identifying customers at risk of leaving. The project uses data preprocessing, model training, and visualization to support customer retention strategies.
 
-<hr>
+**Tech Stack**
+
+`Python` • `Pandas` • `NumPy` • `Scikit-learn` • `Matplotlib`
+
+> 🔗 **Repository:** *Coming Soon*
+
+---
+
+# 🌱 Currently Exploring
+
+- 📱 Flutter Development
+- 🤖 Artificial Intelligence & Machine Learning
+- 🌐 Modern Web Development
+- ⚡ Data Structures & Algorithms
+- 🚀 Building impactful software projects
+
+---
+
+# 💭 Quote
 
 <p align="center">
   <i>"Driven by curiosity. Inspired by innovation."</i>
 </p>
 
-<hr>
-
-
-
-<hr>
+---
 
 <p align="center">
-  Thanks for visiting! Let's connect, collaborate, and build something meaningful. 🚀
+Thanks for visiting! ⭐ Feel free to connect, collaborate, and build something meaningful together.
 </p>
