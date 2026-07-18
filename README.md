@@ -3,5 +3,5 @@
 <h3 align="center">Code. Create. Innovate.</h3>
 
 <p align="center">
-Computer Science (AI & ML) Student • Passionate about building impactful software
+Computer Science (AI & ML) Student 
 </p>
